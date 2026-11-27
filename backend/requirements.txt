@@ -1,0 +1,27 @@
+fastapi
+uvicorn
+pandas
+numpy
+python-multipart
+sqlalchemy
+psycopg2-binary
+python-dotenv
+google-genai
+
+#RAG and Vector Database
+
+pgvector
+
+#LangChain
+
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-postgres
+
+#Embeddings
+
+sentence-transformers
+
+psycopg[binary]
