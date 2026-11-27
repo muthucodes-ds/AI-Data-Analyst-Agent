@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import './App.css'
 
+
 import GenderChart from './components/GenderChart'
 import QualificationChart from './components/QualificationChart'
 import StateChart from './components/StateChart'
 import SubjectChart from './components/SubjectChart'
-import YearChart from './components/YearChart'
+import Yearchart from './components/Yearchart'
 import DistrictChart from './components/DistrictChart'
 import DynamicCharts from './components/DynamicCharts'
 
