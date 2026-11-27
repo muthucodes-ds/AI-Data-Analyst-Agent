@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./AIChat.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://ai-data-analyst-agent-vj6i.onrender.com"
 
 // --------------------------------
 // BOLD TEXT FORMATTER

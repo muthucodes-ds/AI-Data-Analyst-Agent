@@ -10,7 +10,7 @@ import Yearchart from './components/Yearchart'
 import DistrictChart from './components/DistrictChart'
 import DynamicCharts from './components/DynamicCharts'
 
-const API = "http://127.0.0.1:8000"
+const API = "https://ai-data-analyst-agent-vj6i.onrender.com"
 
 function App() {
 
