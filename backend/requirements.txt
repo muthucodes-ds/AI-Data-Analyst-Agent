@@ -25,3 +25,5 @@ langchain-postgres
 sentence-transformers
 
 psycopg[binary]
+openpyxl
+xlrd
